@@ -1,4 +1,4 @@
-# Home
+# Resources
 
 *To make a new page, click [here.](newpage.md)* 
 
