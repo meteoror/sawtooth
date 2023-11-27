@@ -3,5 +3,5 @@
 
 **Limbo** may refer to:
 
-[Limbo (Characters)](/characters/limbo-characters.md)  
-[Limbo (Quotes)](/quotes/limbo-quotes.md)
+[Limbo (Characters)](/wiki/characters/limbo-characters.md)  
+[Limbo (Quotes)](/wiki/quotes/limbo-quotes.md)
