@@ -1,3 +1,3 @@
-## Example page
+## Home
 
-This is an example page. You can edit it or create a [new one](new_page.md)
+This is a new, cool, Page! [Another!](new_page.md)
